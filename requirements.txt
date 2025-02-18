@@ -1,5 +1,6 @@
 streamlit
-psycopg2-binary==2.9.10
+psycopg2-binary
+python-dotenv
 transformers
 torch
 sentencepiece
@@ -7,12 +8,4 @@ scikit-learn
 numpy
 pandas
 matplotlib
-plotly
-seaborn
-altair
-requests
-beautifulsoup4
-selenium
-datasets
-huggingface_hub
-python-dotenv
+mysql-connector-python
