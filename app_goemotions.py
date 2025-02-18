@@ -6,7 +6,7 @@ from config import DB_HOST, DB_NAME, DB_USER, DB_PASS
 def get_connection():
     """Simple helper to get a psycopg2 DB connection."""
     return psycopg2.connect(
-        host="localhost",
+        host="46.227.152.16",
         port="5432",
         database="rededit_db",
         user="postgres",
