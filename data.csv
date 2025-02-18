@@ -1,0 +1,306 @@
+id,title,category_label
+1i31dwr,[P] I made a script to create GSM problems of any complexity.,showcase
+1huk9gq,What's your biggest time sink as a data scientist?,question
+1hv5720,SWE + DS? Is learning both good,question
+1hvnkbl,"Tried Leetcode problems using DeepSeek-V3, solved 3/4 hard problems in 1st attempt",positive
+1hudtrj,Do you prepare for interviews first or apply for jobs first?,question
+1huz0m1,Meta's Large Concept Models (LCMs) : LLMs to output concepts ,neutral
+1huloe0,"""How are these companies building video/image generation tools? From scratch, fine-tuning Llama, or something else?
+""",question
+1hvk25m,Best LLMs to use ,question
+1hurdd1,"Weekly Entering & Transitioning - Thread 06 Jan, 2025 - 13 Jan, 2025",discussion
+1huoyaf,What schema or data model are you using for your LLM / RAG prototyping?,question
+1hu5gha,Announcing Plotlars 0.8.0: Expanding Horizons with New Plot Types! 🦀✨📚,showcase
+1hzprm8,[D] Simple Questions Thread,discussion
+1hq5o1z,[D] Monthly Who's Hiring and Who wants to be Hired?,discussion
+1i1l8d4,[R] Transformer²: Self-Adaptive LLMs,neutral
+1i1lg6o,[R] Titans: Learning to Memorize at Test Time,neutral
+1i18421,[D] Machine Learning Engineer vs AI Research Scientist: Future Prospects?,question
+1i1hz8c,[D] How are people searching for papers in ArXiv?,question
+1i1vheb,[D]Trying to install flower library on my system but I keep facing this error,help
+1i1act4,Pre-trained models for Sentiment classification and analysis [Discussion],discussion
+1i1gr9y,[D]How do you measure improvements of your AI pipeline?,question
+1i0hfsd,[R] Cosine Similarity Isn't the Silver Bullet We Thought It Was,neutral
+1i1aarq,[D] Predicting the probability of default for a credit card user,discussion
+1i13aot,[D] Correlation clustering?,discussion
+1i194ja,[D] Non-Person Action Recognition,discussion
+1i0vrg3,LLM Distributed Training [R],neutral
+1i1fwsg,[D] Prove me wrong…,challenge
+1i0u5sv,NannyML chunking [D],discussion
+1i0g71d,[Project] Hallucination Detection Benchmarks,showcase
+1i0cd4n,[P] Fast Semantic Text Deduplication,showcase
+1i162tn,[P] What is RF and How to Implement it?,question
+1i16ud7,[D] How to convince the stakeholders that our ML solutions is good enough?,question
+1i16f1c,[R] Mastering Machine Learning System Design: A Comprehensive Guide for Scalable AI Solutions,neutral
+1i0nmax,"[D] In ""Speculations on Test-Time Scaling (o1)"", shouldn't this equation be E_(y~p(·|,z_(1:t),x))[Ver(y)]? Adding z_(1:t)...",question
+1hzshvp,[P] I made pkld – a cache for expensive/slow Python functions that persists across runs of your code,showcase
+1i2o10k,Python ideas!,discussion
+1i2o063,need advice on how to split .html into smaller .txt files to use later with Azure TTS.,help
+1i35f2u,Showcase: Python-Lotion – A Lightweight Wrapper for the notion-client (Beta),showcase
+1i39e6e,Novice Python Enthusiast! Looking For Some Guidance!,help
+1i37rqh,Passing large number of parameters to a function in a pythonic way,question
+1i0ywzo,Company base frappe framework or Custom?,question
+1i0t5zy,Kitten Mixer: Generating Adorable Kittens with Variational Autoencoders,showcase
+1i17slh,Good Resume Projects for first job?,question
+1i0k96j,Indentation-based syntax for Clojure,discussion
+1i07szz,DataBridge: Open-source local multimodal modular RAG system using Python,showcase
+1i09ip9,Niquests 3.12 – What's new in 2025,showcase
+1i0snf0,Tuesday Daily Thread: Advanced questions,discussion
+1i09qro,depthviz - Python CLI tool for generating depth tracking overlays for freediving videos,showcase
+1hzpqxu,FuzzyAI - Jailbreak your favorite LLM,showcase
+1i0a0q7,BLIP CAM:Self Hosted Live Image Captioning with Real-Time Video Stream 📹,showcase
+1i0u5lj,Looking for colab on simple animation program,help
+1i0cham,"ParrotFlume: Use LLMs on the CLI, pipe data through them, or use them in bash scripts.",showcase
+1i00vbq,Monday Daily Thread: Project ideas!,discussion
+1hzk4vb,Python with type hints and Mypy: regret for not using statically typed lang?,question
+1hzg5fh,Train an LLM from Scratch,discussion
+1i0nlsh,What will happen in this try except?,question
+1hzpohx,Built My First Document Scanning and OCR App – Would Love to Hear Your Thoughts!,showcase
+1i0azui,I Created A Search Engine Using Python. You do It in just 5 min.,showcase
+1hz1u57,How are European Python/AI devs landing US remote jobs? Just curious,question
+1hyxjqi,PyGAD 3.4.0 Released: Python library for optimization using the genetic algorithm.,showcase
+1hz9krl,AWS S3 data ingestion and augmentation patterns using DuckDB and Python,neutral
+1hz002h,Txtify v1.0.0: FREE AI-Powered Transcription & Translation 🚀 ,showcase
+1hzvhdd,Meta: Idée et partenariat python,discussion
+1hzr17d,Need a Python expert  Squirrel.py,help
+1hylc50,Are there any actual use cases of Python in Excel?,question
+1hzko2n,30-Day Python Programming Challenge,showcase
+1hydxxn,Transact durable compute library now supports asyncio and coroutines,showcase
+1hygwow,Test & Code Season 2 - pytest plugins,neutral
+1hytgdn,A To-Do app in Python with Dash plotly,showcase
+1hyivpf,Saturday Daily Thread: Resource Request and Sharing! Daily Thread,discussion
+1hyx1wr,Multi Tanent Package ,neutral
+1hy1q3n,I created a linter for your dependencies (requirements.txt file!),showcase
+1hy60oj,"txtai 8.2 released: Simplified LLM messages, Graph RAG attribute filters and multi-CPU/GPU encoding",showcase
+1hyxvfe,"all Coding languages support discord group for helping , learning, and sharing code!",neutral
+1hyavui,Estimate Package Reliability Programmatically,discussion
+1hytjwd,"Recovering cleared globals, builtins and modules",discussion
+1hxjv2o,Python in DevOps: My Favorite Tools,neutral
+1hyr77h,how to create a doubt engine like doubtnut in python?,question
+1i00vpv,Ask Anything Monday - Weekly Thread,discussion
+1i1v0lv,Using python in firmware,discussion
+1i1surf,Learn python for beginers,discussion
+1i1ujpn,Speed list from time/positive lists?,question
+1i1icuq,Pythonic way to 'try' two functions,question
+1hxalxo,Companies are finally hiring,neutral
+1i1nl9p,Is mimo pro worth it?  And how does it compare to sololearn?,question
+1i1s3sy,What is the best way to run automated Python scripts on a schedule in 2025?,question
+1i1th0n,How to identify the highest number in a randint() function?,question
+1i1vznu,learning python with a AI copilot,neutral
+1i1vr0f,"Is it okay not to write a better code?(instead of trying to understand the ""better code"")",question
+1i1vlgu,"After parsing an RSS feed with feedparser, is it possible to convert it back to an RSS feed?",question
+1i1scmz,Extracting requirements from a job posting,help
+1i1u6t5,Help! I installed python with rye (using homebrew). How do I use it with an IDE? #AbsoluteBeginner,help
+1i1qu9t,How to remove autocode,help
+1i1mpvf,"Learning python for international commerce (specifically freight freight forwarding, customs brokerage)",neutral
+1i1s9wj,So kinda need help ,help
+1i1l9ln,Is there a standard pythonic way to return exceptions from threaded classes?,question
+1i1nhyb,Conceptual question about async,question
+1i1vpg6,Can somebody help me getting udemy monthly subscription?,help
+1i1i4en,Create and load CSV over the internet with pandas,discussion
+1i1kzch,Partial struggle with while loops,help
+1i1dr8b,"Faster Alternatives to SciPy's "".tocsc()""",question
+1i1askh,How do you manage multiple database environments with SQLAlchemy & Alembic?,question
+1i1m2ob,how do i removed the one in the middle and merge the one in front and last ,help
+1i1h2ti,Matching strings with characters and number ranges,discussion
+1i14qqj,Problem with calling class attribute with type(self),help
+1i1aavy,What is the best way to minimize type inference and maximize specification?,question
+1i1hous,Please help understand function and  return variable,help
+1i1gxph,local certify verify issue ?,question
+1i1274r,Best books to learn FastAPI ,question
+1i1dcak,I have some questions about just running the program ,help
+1i1d9as,My extensions in VScode aren't right.,help
+1i1cze6,Can someone explain this .sort() method behaviour please?,question
+1i1bhz2,Alternative for tweepy,question
+1i1b5px,nspire plotlib error,help
+1i19mlw,KiVyMD + json | Please help!,help
+1i0uyhd,Was Demotivated. Pushed Through. Now Feeling Good about Progress.,positive
+1i14r1x,Can someone help me installing pip?,help
+1i0yqto,How to approach parasing large JSON datasets?,question
+1i1dvms,Dash Python Incosistence Performance,question
+1i15q8u,EXTERNAL LİBRARİES FOR PYCHARM HELPPP**,help
+1i1261x,Paltalk Package,neutral
+1i13qxf,Does it worth it or not?,question
+1i13j1m,How do i give permission to bat file to be able to write/read?,help
+1i13bu4,Help! Automatically taking screenshots of VScode,help
+1i0jk4c,i want to get better at Python for data science. any advice?,question
+1i2o9lb,Python rq memory constraints ,discussion
+1hzq0ac,[D] Cheaper alternative to modal.com?,question
+1i16gxg,code improvement,help
+1i16gn5,code improvement,help
+1i1adad,Formatting Code,help
+1i122ab,Close external program from my script,help
+1i06k3y,"Weekly Entering & Transitioning - Thread 13 Jan, 2025 - 20 Jan, 2025",discussion
+1i1bjhi,E-values: A modern alternative to p-values,neutral
+1i0x2pm,Fuck pandas!!! [Rant],negative
+1i18xcv,Dash Python Incosistence Performance,question
+1i13e03,Seeking Advice on Amazon Bedrock and Azure,help
+1i0dbaj,Mastering The Poisson Distribution: Intuition and Foundations,neutral
+1i03pk7,Where do you go to stay up to date on data analytics/science?,question
+1i1951j,exit cmd.exe from R (or python) without admin privilege,help
+1i0c3x8,Humana Senior DS Position merry-go-round,discussion
+1i0m1ts,Advice on stabilizing an autoencoder's representation?,help
+1i0wxxt,Mistral released Codestral 25.01 : Free to use with VS Code and Jet brains,showcase
+1hzpcuv,"How we matured Fisher, our A/B testing library",showcase
+1i0czn6,Sky-T1-32B: Open-sourced reasoning model outperforms OpenAI-o1 on coding and maths benchmarks ,showcase
+1i0bhi3,Seeking Advice on GPU Comparison: GreenNode vs FPT,question
+1hyploh,"200 applications - no response, please help. I have applied for data science (associate or mid-level) positions. Thank you ",help
+1hyte5x,Feeling stuck in my career. Please help,help
+1hy7g0m,SQL Squid Game: Imagine you were a Data Scientist for Squid Games (9 Levels),question
+1hyaw2t,How to communicate with investors?,question
+1hyxec6,Simple Full stack Agentic AI project to please your Business stakeholders,showcase
+1hxt0wl,How good are your linear algebra skills?,question
+1hy8jhq,SAS - SQL question: inobs= vs outobs=,question
+1hyhm2a,Is it necessary to understand the mathematics for data science anymore?,question
+1hxxjz6,Microsoft's rStar-Math: 7B LLMs matches OpenAI-o1's performance on maths,showcase
+1hxplq8,Best resources for CO2 emissions modeling forecasting,question
+1hx305z,I was penalized in a DS interview...Has anyone had occasions where the interviewer was wrong?,question
+1hy9am1,Spreadsheet first cell debate ,discussion
+1hxnq3t,Question on quasi-experimental approach for product feature change measurement,question
+1hxi5em,[R][N] TabPFN v2: Accurate predictions on small data with a tabular foundation model,neutral
+1hx286f,Am I underpaid/underemployed at $65k for a Data Analyst position in a MCOL city?,question
+1hwmsd2,absolute path to image in shiny ui,help
+1hvzskd,Change my mind: feature stores are needless complexity.,challenge
+1hw5s76,As of 2025 which one would you install? Miniforge or Miniconda? ,question
+1hvwxzv,People who do DS/Analytics as freelancing any suggestions ,question
+1hz9oaq,Sunday Daily Thread: What's everyone working on this week?,discussion
+1i1kdk3,Wednesday Daily Thread: Beginner questions,discussion
+1i1ppr7,I rewrote my programming language from Python into Go to see the speed up.,showcase
+1i1s353,Prompt-Template: A flexible and lightweight prompt templating library,showcase
+1i1tg3u,Slixmpp 1.8.6 - XMPP/Jabber Library for Python - SleekXMPP,showcase
+1i16yuj,Shellphone - Terraria Player File Editor TUI,showcase
+1i0yb1m,"Leviathan: A Simple, Ultra-Fast EventLoop for Python asyncio",showcase
+1i1b7ry,I made a Twitter bot that offers YT timestamps,showcase
+1i12yib,"""Develop web applications with wwwpy, which is scalable, customizable, and developer-friendly 🚀
+""",showcase
+1i11p90,Nyxelf : Another python tool for analysing ELF binaries,showcase
+1i0lwjo,RichChk: Edit StarCraft maps in Python,showcase
+1hzszu4,spss syntax to pandas,neutral
+1i2okqr,Fixing the Loading Spinner Issue in SSE with aiohttp and Tail-like Log Streaming,discussion
+1i3dawc,My learning repository with implementations of many Machine Learning methods and concepts,showcase
+1i328xc,Prevent accidentally running python scripts with missing or incorrect shebang,help
+1i32k88,Is there a way to find what line a specific string is on inside a text file?,question
+1i32ma3,Question regarding loops,question
+1i37il0,Struggling to Set Up PyCharm for Angela Yu's 100 Days of Code Challenge – Need Help!,help
+1i3biz1,[Pandas] & [xlswriter] - Tableau dynamique et Mise en page du tableau avec xlswriter,question
+1i3annl,NumPy download problem,help
+1i3alq4,Please suggest me a library or python code to add padding or reduce data logically,help
+1i33sec,Python for Managers/Execs,discussion
+1i33mt0,I've been given the choice between being a Data Scientist or an Analytics Manager. Which would you choose and why?,question
+1i3cgo0,guys is web crawling and scraping +1 for data science or it doesn't matter.,question
+1i3a45a,How long did it take you to get a new role when looking for a new job?,question
+1i3clrk,Microsoft MatterGen: GenAI model for Material design and discovery ,showcase
+1i3bwdj,Can someone help me understand what is the issue exactly?,help
+1i3a227,Google Titans : New LLM architecture with better long term memory,showcase
+1i34tao,looking for arts sales data to understand arts pricing dynamics or madness,question
+1i34keg,Grokking at the Edge of Numerical Stability [Research],discussion
+1i389km,[D] How to analysis memory and computation cost by parts in LLM fine-tune?,question
+1i7dqlh,[D] CVPR 2025 Reviews,discussion
+1i7doq7,[R] Learning Complex Knowledge from Raw Video: VideoWorld's Success in Go and Robotic Control,neutral
+1i9stwk,For my Textual users! Neovim plugin to support Textual CSS Syntax Highlighting,showcase
+1i8ss6o,ExtractThinker - Document Intelligence for LLMs,showcase
+1i7nq4b,How do you handle observability in Python-arq?,question
+1i7nmqd,helsinki unÄ±versty python programming mooc.fi,neutral
+1i9jh83,Looking for Coders to Join My AI Project,help
+1i247ie,Theme or graphic library for ui,question
+1i3dnma,"For those of you who user raspberry pi scripts and eink screen, what driver do you use?",question
+1i29a6d,"""Advanced Imputation Techniques for Correlated Time Series: Insights and Experiences?
+""",discussion
+1i23zbo,[P] How I found & fixed 4 bugs in Microsoft's Phi-4 model,showcase
+1i2h315,"Best way to classify NSFW text - BERT, small LLM like llama 3.2 3B or something else? [D]",question
+1i210hp,Kaggle dataset: one of the input features has a >0.99 correlation with the target... [D],question
+1i279gb,[R] Imagine while Reasoning in Space: Multimodal Visualization-of-thought,neutral
+1i236iq,[D] Dilemma b/w JAIR vs Pattern Recognition Journal,discussion
+1i21t17,[R] Explainable GNNs in Job Recommender Systems: Tackling Multi-Stakeholder Challenges,neutral
+1i26qvt,Best AutoML for Supervised Regression of Tabular Data [P],question
+1i26ccb,[D] HCT (Hematopoietic Cell Transplantation) Survival: Do you have any domain expertise?,question
+1i22zdu,What percent of your paper is written by AI and is it unethical?[D],question
+1i2ahv1,Robyn (Web Framework) is looking for PR reviews on Chinese translation,help
+1i234xc,"I've created RaptorSight, an open source port scanner ",showcase
+1i26g9m,Should I learn Python or SQL as a complete beginner to become Data Analyst?,question
+1i2ci96,Should I use PyInstaller to distribute my scripts to my team?,question
+1i2b8ka,Creating Sheets in Excel with Pandas,help
+1i2ay8f,Now what? ,help
+1i2j2kc,need help installing the discord.py package on ubuntu,help
+1i2efpd,"Very new to python, confused about base 2 and floating point errors.",help
+1i7dvln,Searching for a string within a longer string,help
+1i7eaj9,Scrapy MRO error without any references to conflicting packages,help
+1i7nql9,AnonChat 1.2.0 - Anonymous Chat application,showcase
+1i7nvix,[D] Comment on CVPR reviews and ICLR decisions.,discussion
+1i8377d,deidentification - A Python tool for removing personal information from text using NLP,showcase
+1i8ojnn,How to install MicroPython on ESP32,question
+1i727me,"Here's an idea, let's write down the simple things we gradually learnt... (To help newbies)",discussion
+1i8p7zc,A Python wrapper for Conviva's Metrics API,showcase
+1i8kys9,Test & Code. Why is pytest-cov the number 1 pytest plugin? Here's my take on it.,question
+1i89px9,"I Built an Open-Source RAG API for Docs, GitHub Issues and READMEs",showcase
+1i2q3go,GUI Snippet Application (Beginner/Intermediate Showcase & Feedback Request) ,showcase
+1i2q1wz,Best Resources for Preparing for the Polish Advanced Matura Exam in Computer Science?,question
+1i2pcvc,How can you make that a videocamera detects risk and set an alarm with python?,question
+1i2q6t9,[R] Multimodal Visualization-of-Thought: Enhancing MLLM Reasoning Through Visual Thinking,neutral
+1i2xzj8,{:.3f} function,discussion
+1i338dp,Friday Daily Thread: r/Python Meta and Free-Talk Fridays,discussion
+1i3342g,Real world pip alternative,discussion
+1i33y8v,[R] Seeking a Knowledgeable Co-Author for Time Series Foundation Models Research,help
+1i2lw4i,"""AutoResearch: A Pure-Python open-source LLM-driven research automation tool
+""",showcase
+1i2kafp,DeepEval: The Open-Source LLM Evaluation Framework,showcase
+1i2l082,Unable to extract location from live news data. Need help/guidance to extracting the location details.,help
+1i2m3mv,What Challenges Do Businesses Face When Developing AI Solutions?,question
+1i2l0ey,[D] Titans: a new seminal architectural development?,question
+1i2mcy1,"Good People of this reddit who worked with multiple adapters on the same model, guide me with your wisdom [D]",help
+1i2mbhn,[N] 🚀 Soket Lab's Realtime Speech API Is Here!,showcase
+1i2lk5n,[P] AutoResearch: A new open-source LLM-driven research automation tool,showcase
+1i26kpr,Type and syntax highlight,discussion
+1i2i2dy,What does [inference-script] mean?,question
+1i28agf,Is there a way to condense this code?,question
+1i2c5jv,Should I Build a Package or Just Ship the Files for my Project?,question
+1i265n8,Improve sorting algorithm ,help
+1i2fj2q,While Statement not breaking when Count variable = 8.,help
+1i296ou,I can I convert a pyw to a .app using Windows OS,help
+1i23c3i,Need help to integrate UI in my code using tkinter,help
+1i2cdry,Need help installing jupyter on ubuntu 24 ,help
+1i29xb7,Python code that launches the Microsoft Office 365 Program,neutral
+1i24a24,Learning python from the first time + Jupyter,discussion
+1i2997n,Building an app for Windows,discussion
+1i22xg4,Having a problem with a while loop,help
+1i27hdv,I am looking for an editor like ckeditor or WSYIWYG... how to add a custom button for MathJax?,help
+1i21722,how do i make custom timeframes properly?,help
+1i26hwn,Learning Pycharm debugger,discussion
+1i3evbt,Feeling overwhelmed ,help
+1i3ea0t,Understanding subprocess termination behavior,question
+1i3enos,Automate Deep learning model with camera(inception -Tensorflow) [P],showcase
+1i7f649,"I made a cli for linux that tracks crypto prices, news, and more.",showcase
+1i2r7z0,I wrote optimizers for TensorFlow and Keras,showcase
+1i2rpfe,Latex error with Python,help
+1i2rhxz,help with downloading remote sensing satellite imagery,help
+1i2re9d,I need help with building a script to automate sending messages to WhatsApp groups via Selenium,help
+1i2r3sm,Problem with python assignment (pygame),help
+1i2qj4j,Books on Machine Learning + in R,question
+1i2qmdf,"""[R] Virgo: A Preliminary Exploration on
+Reproducing o1-like MLLM""",neutral
+1i7fdf9,[D] Suggestion for image embedding model fine-tuning,question
+1i7ojbr,coding an AI to process images?,question
+1i3ccme,CLI to Pyside back to CLI?,question
+1i1x7pq,Have found a dataset and want to use Python to find 4 statistical insights - Can anyone help?,help
+1i1wuie,Pip is broken.,help
+1i1wr66,Searching for beginner excercises for python,question
+1hy05iu,[D] I am trying to find common sense problems that most humans can solve...Here's an example,help
+1i3ghiq,How are python packages and modules organized?,question
+1i30cxv,Every OOP term ,neutral
+1i309e9,Is there a single-line technique that returns the location at which a value would fit into a sorted sequence of values?,question
+1i2zxzh,Question about web scraper/question answering program.,question
+1i7g04g,Recently graduated,neutral
+1i7g7ia,Snyk Path Traversal Warning Despite Hardcoded File Paths - How to Resolve?,help
+1i7g04y,[R] Learning to Continually Learn with the Bayesian Principle,neutral
+1i34vgh,Managing state for control of which methods can be called when?,question
+1i37cn4,I'm trying to complete grok academys python for beginners... can you help?,help
+1i37yia,I forgot the name of the app,help
+1i3cmit,[D] self.attribute which calls on a function is running even though function is defined below self call,question
+1i33hr8,Tf-idf frustration,help
+1i33bf7,Noob class question,question
+1i36wio,Trying to program the Wilcoxon Signed Rank test... my z-value keeps being negative... Help!,help
+1i36qjr,passing variables between functions not working?,help
+1i3607m,Numba-Alternatives That Support polars dataframes.,question
+1i35xc8,plz help. stuck at a DMOJ Questio0n,help
+1i78es5,"I am trying to make Snake,Water, Gun Game in Python(Beginner) but I am stuck at a line of code.",help
+1i6uluv,Help me with this,help
