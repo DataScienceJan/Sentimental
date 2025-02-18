@@ -1,5 +1,5 @@
 streamlit
-psycopg2-binary
+psycopg2
 transformers
 torch
 sentencepiece
@@ -7,9 +7,6 @@ scikit-learn
 numpy
 pandas
 matplotlib
-psycopg2-binary  # For PostgreSQL
-mysql-connector-python  # For MySQL
-sqlite3  # For SQLite (built-in, so not needed in requirements.txt)
 plotly
 seaborn
 altair
