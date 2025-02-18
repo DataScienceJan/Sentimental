@@ -1,5 +1,5 @@
 streamlit
-psycopg2-binary  # Use binary version to avoid pg_config issues
+psycopg2-binary 
 transformers
 torch
 sentencepiece
@@ -15,3 +15,4 @@ beautifulsoup4
 selenium
 datasets
 huggingface_hub
+python-dotenv
