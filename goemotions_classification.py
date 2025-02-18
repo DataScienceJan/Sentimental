@@ -11,7 +11,7 @@ import numpy as np
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # 1) Database connection info
-DB_HOST = "localhost"
+DB_HOST = "46.227.152.16"
 DB_NAME = "rededit_db"
 DB_USER = "postgres"
 DB_PASS = "123456"
